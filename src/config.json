@@ -1,54 +1,54 @@
 [
     {
-        "url": "http://192.168.1.233:8080/3BiTy.wav",
+        "url": "/audio/3BiTy.wav",
         "label": "3bit"
     },
     {
-        "url": "http://192.168.1.233:8080/czajnik.wav",
+        "url": "/audio/czajnik.wav",
         "label": "czajnik"
     },
     {
-        "url": "http://192.168.1.233:8080/10_os_na_hangout.wav",
+        "url": "/audio/10_os_na_hangout.wav",
         "label": "hangouts"
     },
     {
-        "url": "http://192.168.1.233:8080/czesc_slonce.wav",
+        "url": "/audio/czesc_slonce.wav",
         "label": "czesc slonce"
     },
     {
-        "url": "http://192.168.1.233:8080/czy_mam_zadzwonic_do_grygla.wav",
+        "url": "/audio/czy_mam_zadzwonic_do_grygla.wav",
         "label": "czy mam zadzwonić do grygla"
     },
     {
-        "url": "http://192.168.1.233:8080/smuteczek.wav",
+        "url": "/audio/smuteczek.wav",
         "label": "smuteczek"
     },
     {
-        "url": "http://192.168.1.233:8080/smacznego.wav",
+        "url": "/audio/smacznego.wav",
         "label": "smacznego"
     },
     {
-        "url": "http://192.168.1.233:8080/przyczłap.wav",
+        "url": "/audio/przyczłap.wav",
         "label": "przyczłap"
     },
     {
-        "url": "http://192.168.1.233:8080/pani_kierowniczko.wav",
+        "url": "/audio/pani_kierowniczko.wav",
         "label": "pani kierowniczko"
     },
     {
-        "url": "http://192.168.1.233:8080/tak_nie.wav",
+        "url": "/audio/tak_nie.wav",
         "label": "tak"
     },
     {
-        "url": "http://192.168.1.233:8080/u_was_to_jest_smiesznie.wav",
+        "url": "/audio/u_was_to_jest_smiesznie.wav",
         "label": "u was to jest śmiesznie"
     },
     {
-        "url": "http://192.168.1.233:8080/ekspres.wav",
+        "url": "/audio/ekspres.wav",
         "label": "ekspres"
     },
     {
-        "url": "http://192.168.1.233:8080/spoko_dzia%C5%82a%C5%82.wav",
+        "url": "/audio/spoko_dzia%C5%82a%C5%82.wav",
         "label": "spoko działał"
     }
 ]

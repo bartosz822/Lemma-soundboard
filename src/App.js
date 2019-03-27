@@ -11,7 +11,7 @@ class App extends Component {
         <Header as="h1" dividing className={'App-header'}>
           Lemma soundboard
         </Header>
-        {config.map(configEntry => <SoundButton url={configEntry.url} label={configEntry.label}></SoundButton>)}
+        {config.map(configEntry => <SoundButton url={window.location.origin + configEntry.url} label={configEntry.label}></SoundButton>)}
       </Container>
     );
   }
