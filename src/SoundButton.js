@@ -13,8 +13,6 @@ class SoundButton extends Component {
     }
     
     togglePlayState = () => {
-        console.log(this.state.status)
-        console.log(this.state.status === Sound.status.PLAYING)
         if (this.state.status === Sound.status.PLAYING){
             this.setState({status: Sound.status.STOPPED, buttonColor: ''})
         } else {
