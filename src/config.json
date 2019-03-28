@@ -4,12 +4,24 @@
         "label": "3bit"
     },
     {
-        "url": "/audio/czajnik.wav",
-        "label": "czajnik"
-    },
-    {
         "url": "/audio/10_os_na_hangout.wav",
         "label": "hangouts"
+    },
+    {
+        "url": "/audio/ambient_sound.wav",
+        "label": "ambient"
+    },
+    {
+        "url": "/audio/bo_jest_zjebane.wav",
+        "label": "bo jest zjebane"
+    },
+    {
+        "url": "/audio/bo_wszystko_jest_zjebane.wav",
+        "label": "bo wszystko jest zjebane"
+    },
+    {
+        "url": "/audio/czajnik.wav",
+        "label": "czajnik"
     },
     {
         "url": "/audio/czesc_slonce.wav",
@@ -20,35 +32,75 @@
         "label": "czy mam zadzwonić do grygla"
     },
     {
-        "url": "/audio/smuteczek.wav",
-        "label": "smuteczek"
-    },
-    {
-        "url": "/audio/smacznego.wav",
-        "label": "smacznego"
-    },
-    {
-        "url": "/audio/przyczłap.wav",
-        "label": "przyczłap"
-    },
-    {
-        "url": "/audio/pani_kierowniczko.wav",
-        "label": "pani kierowniczko"
-    },
-    {
-        "url": "/audio/tak_nie.wav",
-        "label": "tak"
-    },
-    {
-        "url": "/audio/u_was_to_jest_smiesznie.wav",
-        "label": "u was to jest śmiesznie"
+        "url": "/audio/dopiszmy_to_do_bingo.wav",
+        "label": "dopiszmy to do bingo"
     },
     {
         "url": "/audio/ekspres.wav",
         "label": "ekspres"
     },
     {
+        "url": "/audio/fryzura.wav",
+        "label": "fryzura"
+    },
+    {
+        "url": "/audio/ja_mam_takie_lagi.wav",
+        "label": "ja mam takie lagi"
+    },
+    {
+        "url": "/audio/kurwa_dlaczego.wav",
+        "label": "dlaczego"
+    },
+    {
+        "url": "/audio/mamy_do_pogadania.wav",
+        "label": "mamy do pogadania"
+    },
+    {
+        "url": "/audio/najlepiej.wav",
+        "label": "najlepiej"
+    },
+    {
+        "url": "/audio/no_co_jest_kurwa.wav",
+        "label": "no co jest"
+    },
+    {
+        "url": "/audio/pani_kierowniczko.wav",
+        "label": "pani kierowniczko"
+    },
+    {
+        "url": "/audio/predzej_uslyszysz_od_klienta.wav",
+        "label": "predzej usłyszysz od klienta"
+    },
+    {
+        "url": "/audio/przyczłap.wav",
+        "label": "przyczłap"
+    },
+    {
+        "url": "/audio/smacznego.wav",
+        "label": "smacznego"
+    },
+    {
+        "url": "/audio/smuteczek.wav",
+        "label": "smuteczek"
+    },
+    {
         "url": "/audio/spoko_dzia%C5%82a%C5%82.wav",
         "label": "spoko działał"
+    },
+    {
+        "url": "/audio/tak_nie.wav",
+        "label": "tak nie"
+    },
+    {
+        "url": "/audio/to_jest_kitowe.wav",
+        "label": "to jest kitowe"
+    },
+    {
+        "url": "/audio/u_was_to_jest_smiesznie.wav",
+        "label": "u was to jest śmiesznie"
+    },
+    {
+        "url": "/audio/wlosy_zyja_wlasnym_zyciem.wav",
+        "label": "włosy żyją własnym życiem"
     }
 ]
