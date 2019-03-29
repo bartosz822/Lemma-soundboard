@@ -103,4 +103,72 @@
         "url": "/audio/wlosy_zyja_wlasnym_zyciem.wav",
         "label": "włosy żyją własnym życiem"
     }
+    {
+        "url": "/audio/cos.wav",
+        "label": "coś"
+    },
+    {
+        "url": "/audio/chodż_arkadiusz_na_fajeczkę.wav",
+        "label": "chodż Arkadiusz na fajeczkę"
+    },
+    {
+        "url": "/audio/czy_godziny.wav",
+        "label": "czy godziny"
+    },
+    {
+        "url": "/audio/dżwiiiig.wav",
+        "label": "dżwiiiig"
+    },
+    {
+        "url": "/audio/gdzieś_to_już_widziałem.wav",
+        "label": "gdzieś to już widziałem"
+    },
+    {
+        "url": "/audio/kakakakaktus.wav",
+        "label": "kakakakaktus"
+    },
+    {
+        "url": "/audio/kto_to_nagrał.wav",
+        "label": "kto to nagrał?"
+    },
+    {
+        "url": "/audio/lecieć_bokiem.wav",
+        "label": "lecieć bokiem"
+    },
+    {
+        "url": "/audio/makapaka.wav",
+        "label": "makkapaka"
+    },
+    {
+        "url": "/audio/na_podwalu_3.wav",
+        "label": "na podwalu 3"
+    },
+    {
+        "url": "/audio/nie_ma_lota.wav",
+        "label": "nie ma lota"
+    },
+    {
+        "url": "/audio/pizga.wav",
+        "label": "pizga"
+    },
+    {
+        "url": "/audio/potniesz_to_do_jutra.wav",
+        "label": "potniesz to do jutra?"
+    },
+    {
+        "url": "/audio/ręce_i_nogi.wav",
+        "label": "ręce i nogi"
+    },
+    {
+        "url": "/audio/robi_się_niebezpiecznie.wav",
+        "label": "robi się niebezpiecznie"
+    },
+    {
+        "url": "/audio/wobloblo.wav",
+        "label": "woblobloblo"
+    },
+    {
+        "url": "/audio/z_dyktafonem_wśród_developerów.wav",
+        "label": "z dyktafonem wśród developerów"
+    },
 ]
